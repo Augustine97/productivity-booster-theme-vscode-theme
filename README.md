@@ -11,6 +11,5 @@ A clean and elegant theme for the developers who love to code.
 
 ![Productivity Booster Theme](https://user-images.githubusercontent.com/28197642/149843412-f3bd45e1-5c24-4abd-9bbd-392066f19da2.png)
 
-
-[![wakatime](https://wakatime.com/badge/github/Augustine97/productivity-booster-theme-vscode-theme.svg)](https://wakatime.com/badge/github/Augustine97/productivity-booster-theme-vscode-theme)
+<!-- [![wakatime](https://wakatime.com/badge/github/Augustine97/productivity-booster-theme-vscode-theme.svg)](https://wakatime.com/badge/github/Augustine97/productivity-booster-theme-vscode-theme) -->
 <!-- *Light theme coming **soon*** 🌙 -->
