@@ -3,6 +3,9 @@
 	"type": "dark",
 	"colors": {
 
+		// ~window
+		"window.activeBorder": "#FF008B",
+	
 		// ~Editor
 		"editor.background": "#000000",
 		"editor.foreground": "#ff8b56",
