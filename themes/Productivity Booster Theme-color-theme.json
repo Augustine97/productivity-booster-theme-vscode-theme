@@ -28,7 +28,7 @@
 
 		// ~Status bar
 		"statusBar.background": "#282F44",
-		"statusBar.noFolderBackground": "#fc4384",
+		"statusBar.noFolderBackground": "#282F44",
 		"statusBar.foreground": "#FBF9AF",
 		"statusBar.border": "#080808",
 
@@ -106,7 +106,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#FF008E"
 			}
 		},
 		{
