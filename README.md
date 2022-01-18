@@ -3,9 +3,11 @@
     <img alt="productivity booster theme icon" src="icon.png" width="100" />
   </a>
 </p>
-<h2 align="center">Productivity Booster Theme </h2>
+<h2 align="center">Productivity Booster Theme</h2>
 
 <h5 align="center">Created for you, by <a href="https://www.linkedin.com/in/i-am-manumathew/">Manu Mathew</a></h5>
+
+![version number](https://vsmarketplacebadge.apphb.com/version/ManuMathew.Productivity-Booster-Theme.svg)
 
 A clean and elegant theme for the developers who love to code.
 
